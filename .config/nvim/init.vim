@@ -34,8 +34,9 @@ let g:airline_symbols.readonly = ''
 let g:airline_symbols.linenr = '☰'
 let g:airline_symbols.maxlinenr = ''
 
-" Nerd tree symbols
+" Nerd tree
 let g:NERDTreeGitStatusUseNerdFonts = 1
+let NERDTreeShowHidden=1
 
 " Color theme
 let g:airline_theme='iceberg'
