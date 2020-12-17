@@ -1,0 +1,45 @@
+[submodule ".local/nvim/site/pack/git-plugins/start/iceberg.vim"]
+	path = .local/nvim/site/pack/git-plugins/start/iceberg.vim
+	url = https://github.com/cocopon/iceberg.vim
+[submodule ".local/share/nvim/site/pack/git-plugins/start/vim-airline"]
+	path = .local/share/nvim/site/pack/git-plugins/start/vim-airline
+	url = https://github.com/vim-airline/vim-airline
+[submodule ".local/share/nvim/site/pack/git-plugins/start/vim-airline-themes"]
+	path = .local/share/nvim/site/pack/git-plugins/start/vim-airline-themes
+	url = https://github.com/vim-airline/vim-airline-themes
+[submodule ".local/share/nvim/site/pack/git-plugins/start/coc.nvim"]
+	path = .local/share/nvim/site/pack/git-plugins/start/coc.nvim
+	url = https://github.com/neoclide/coc.nvim
+[submodule ".local/share/nvim/site/pack/git-plugins/start/vimtex"]
+	path = .local/share/nvim/site/pack/git-plugins/start/vimtex
+	url = https://github.com/lervag/vimtex
+[submodule ".local/share/nvim/site/pack/git-plugins/start/vim-snippets"]
+	path = .local/share/nvim/site/pack/git-plugins/start/vim-snippets
+	url = https://github.com/honza/vim-snippets
+[submodule ".local/share/nvim/site/pack/git-plugins/start/vim-svelte-plugin"]
+	path = .local/share/nvim/site/pack/git-plugins/start/vim-svelte-plugin
+	url = https://github.com/leafOfTree/vim-svelte-plugin
+[submodule ".local/share/nvim/site/pack/git-plugins/start/vim-fugitive"]
+	path = .local/share/nvim/site/pack/git-plugins/start/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive
+[submodule ".local/share/nvim/site/pack/git-plugins/start/auto-pairs"]
+	path = .local/share/nvim/site/pack/git-plugins/start/auto-pairs
+	url = https://github.com/jiangmiao/auto-pairs
+[submodule ".local/share/nvim/site/pack/git-plugins/start/denite.nvim"]
+	path = .local/share/nvim/site/pack/git-plugins/start/denite.nvim
+	url = https://github.com/Shougo/denite.nvim
+[submodule ".local/share/nvim/site/pack/git-plugins/start/vim-multiple-cursors"]
+	path = .local/share/nvim/site/pack/git-plugins/start/vim-multiple-cursors
+	url = https://github.com/terryma/vim-multiple-cursors
+[submodule ".local/share/nvim/site/pack/git-plugins/start/nvim-blame-line"]
+	path = .local/share/nvim/site/pack/git-plugins/start/nvim-blame-line
+	url = https://github.com/tveskag/nvim-blame-line
+[submodule ".local/share/nvim/site/pack/git-plugins/start/nerdtree"]
+	path = .local/share/nvim/site/pack/git-plugins/start/nerdtree
+	url = https://github.com/preservim/nerdtree
+[submodule ".local/share/nvim/site/pack/git-plugins/start/nerdtree-git-plugin"]
+	path = .local/share/nvim/site/pack/git-plugins/start/nerdtree-git-plugin
+	url = https://github.com/XuyuanP/nerdtree-git-plugin
+[submodule ".local/share/nvim/site/pack/git-plugins/start/vim-devicons"]
+	path = .local/share/nvim/site/pack/git-plugins/start/vim-devicons
+	url = https://github.com/ryanoasis/vim-devicons
