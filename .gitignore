@@ -1,3 +1,4 @@
+/.antigen
 /.bash_history
 /.cache/
 /.dosbox/
@@ -12,7 +13,6 @@
 /.pki
 /.pylint.d
 /.qrcp.json
-/.oh-my-zsh
 /.ssh
 /.steam
 /.steampath
@@ -35,3 +35,4 @@
 /envs
 /go
 /.zcompdump-haowenl-xps-arch-5.8
+/.zshrc.zwc
