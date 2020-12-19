@@ -2,14 +2,18 @@
 /.bash_history
 /.cache/
 /.dosbox/
+/.fonts.conf
 /.git-credentials
 /.gnupg
+/.gtkrc-2.0
 /.ipython
 /.java
+/.kde4/
 /.mozilla
 /.npm
 /.nutstore
 /.nv
+/.nvidia-settings-rc
 /.pki
 /.pylint.d
 /.qrcp.json
@@ -25,12 +29,14 @@
 /.wine
 /.yarnrc
 /.zsh_history
+/Desktop
 /Documents
 /Downloads
 /Games
 /Nutstore Files
 /Pictures
 /Unity
+/Videos
 /dev
 /envs
 /go
