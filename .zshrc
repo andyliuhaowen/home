@@ -8,5 +8,3 @@ antigen bundle davidde/git
 antigen theme denysdovhan/spaceship-prompt
 
 antigen apply
-
-export PATH=$PATH:$HOME/go/bin:$HOME/.local/bin:$HOME/.yarn/bin
