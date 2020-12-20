@@ -17,6 +17,7 @@
 /.pki
 /.pylint.d
 /.qrcp.json
+/.sogouinput
 /.ssh
 /.steam
 /.steampath
@@ -40,5 +41,6 @@
 /dev
 /envs
 /go
+/.Xauthority
 /.zcompdump*
 /.zshrc.zwc
