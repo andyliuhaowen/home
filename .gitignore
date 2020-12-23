@@ -1,6 +1,7 @@
 /.antigen
 /.bash_history
 /.cache/
+/.designer
 /.dosbox/
 /.fonts.conf
 /.git-credentials
@@ -36,6 +37,7 @@
 /Games
 /Nutstore Files
 /Pictures
+/Qt
 /Unity
 /Videos
 /dev

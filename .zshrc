@@ -12,6 +12,8 @@ autoload -Uz compinit
 compinit
 # End of lines added by compinstall
 
+alias ls='ls --color=auto'
+
 source ~/antigen/bin/antigen.zsh
 
 antigen bundle zsh-users/zsh-autosuggestions
