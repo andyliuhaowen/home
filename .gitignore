@@ -3,6 +3,7 @@
 /.cache/
 /.designer
 /.dosbox/
+/.dropbox
 /.fonts.conf
 /.git-credentials
 /.gnupg
@@ -34,6 +35,7 @@
 /Desktop
 /Documents
 /Downloads
+/Dropbox
 /Games
 /Nutstore Files
 /Pictures
