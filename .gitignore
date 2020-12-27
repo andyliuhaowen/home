@@ -1,14 +1,14 @@
 /.Xauthority
-/.antigen
 /.android
+/.antigen
 /.bash_history
 /.cache/
 /.designer
 /.dosbox/
 /.dropbox
-/.fonts.conf
 /.flutter
 /.flutter_tool_state
+/.fonts.conf
 /.git-credentials
 /.gnupg
 /.gtkrc-2.0
@@ -35,6 +35,7 @@
 /.vscode
 /.wget-hsts
 /.wine
+/.yarn
 /.yarnrc
 /.zcompdump*
 /.zotero
