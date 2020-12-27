@@ -1,5 +1,6 @@
 /.Xauthority
 /.antigen
+/.android
 /.bash_history
 /.cache/
 /.designer
@@ -47,6 +48,7 @@
 /Unity
 /Videos
 /Zotero
+/android-sdk
 /dev
 /envs
 /go
