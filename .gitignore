@@ -7,6 +7,8 @@
 /.dosbox/
 /.dropbox
 /.fonts.conf
+/.flutter
+/.flutter_tool_state
 /.git-credentials
 /.gnupg
 /.gtkrc-2.0
@@ -19,6 +21,7 @@
 /.nv
 /.nvidia-settings-rc
 /.pki
+/.pub-cache
 /.pylint.d
 /.qrcp.json
 /.sogouinput
@@ -37,6 +40,7 @@
 /.zotero
 /.zsh_history
 /.zshrc.zwc
+/Android
 /Desktop
 /Documents
 /Downloads
