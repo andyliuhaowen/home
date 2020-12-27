@@ -1,3 +1,4 @@
+/.Xauthority
 /.antigen
 /.bash_history
 /.cache/
@@ -31,7 +32,10 @@
 /.wget-hsts
 /.wine
 /.yarnrc
+/.zcompdump*
+/.zotero
 /.zsh_history
+/.zshrc.zwc
 /Desktop
 /Documents
 /Downloads
@@ -39,13 +43,11 @@
 /Games
 /Nutstore Files
 /Pictures
-/projects
 /Qt
 /Unity
 /Videos
+/Zotero
 /dev
 /envs
 /go
-/.Xauthority
-/.zcompdump*
-/.zshrc.zwc
+/projects
