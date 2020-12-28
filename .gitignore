@@ -1,3 +1,8 @@
+.dart/
+.dartServer/
+.devtools
+.emulator_console_auth_token
+.gradle/
 /.Xauthority
 /.android
 /.antigen
@@ -58,3 +63,4 @@
 /envs
 /go
 /projects
+AndroidStudio/
