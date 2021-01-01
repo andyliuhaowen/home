@@ -4,6 +4,7 @@
 /.anyconnect
 /.bash_history
 /.cache/
+/.cargo/
 /.cisco/
 /.dart/
 /.dartServer/
@@ -32,6 +33,7 @@
 /.putty
 /.pylint.d
 /.qrcp.json
+/.rustup/
 /.sogouinput
 /.ssh
 /.steam
