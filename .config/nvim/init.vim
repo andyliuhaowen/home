@@ -1,3 +1,22 @@
+call plug#begin('~/.vim/plugged')
+Plug 'neoclide/coc.nvim'
+Plug 'Shougo/denite.nvim'
+Plug 'cocopon/iceberg.vim'
+Plug 'cohama/lexima.vim'
+Plug 'preservim/nerdtree'
+Plug 'Xuyuanp/nerdtree-git-plugin'
+Plug 'terrortylor/nvim-comment'
+Plug 'vim-airline/vim-airline'
+Plug 'vim-airline/vim-airline-themes'
+Plug 'ryanoasis/vim-devicons'
+Plug 'tpope/vim-fugitive'
+Plug 'airblade/vim-gitgutter'
+Plug 'terryma/vim-multiple-cursors'
+Plug 'honza/vim-snippets'
+Plug 'lervag/vimtex'
+Plug 'ianding1/leetcode.vim'
+call plug#end()
+
 " cSpell:disable
 " Airline
 if !exists('g:airline_symbols')
@@ -324,3 +343,11 @@ function! s:denite_my_settings() abort
   nnoremap <silent><buffer><expr> <C-h>
   \ denite#do_map('do_action', 'split')
 endfunction
+
+" LeetCode
+let g:leetcode_browser='firefox'
+
+" LUA plugin setup
+lua << EOF
+require('nvim_comment').setup()
+EOF
